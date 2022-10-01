@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+ .bg-light{
+    background-color: black!important;
+    
+} 
+#navbarSupportedContent.collapse.navbar-collapse{
+    justify-content: flex-end;
+
+}
+a.nav-link.active{
+    color: white!important;
+}
+.col-lg-3{
+    margin-top: 30px;
+}
+.col-lg-9{
+    margin-top: 30px;
+}
+
+.carousel-indicators {
+    color: silver!important;
+    margin-bottom: -4rem;
+    
+}
+/* -----------------    Section       --------------------------- */
+
+
+
+section .box{
+    background: #ffffff;
+    text-align: center;
+    padding: 35px 0;
+    margin-top: 80px;
+    border-radius: 20px;
+}
+section .box img{
+    width: 100%;
+}
+section .box h2{
+    font-size: 24px;
+    color: #000339;
+    margin-top: 30px
+}
+section .block img{
+    width: 100%;
+
+}
+
+section .block_text img{
+    width: 100%;
+}
+section .block_text {
+    background: #dad2d2;
+    padding:  30px 20px 90px 20px;
+}
+.left_slide{
+    margin-top: 80px;
+}
+
+
+
